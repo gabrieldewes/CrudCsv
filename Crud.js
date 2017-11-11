@@ -1,7 +1,7 @@
 (function() {
-  /**
-   * Created by Dewes on 09/11/2017.
-   */
+/**
+ * Created by Dewes on 09/11/2017.
+ */
   "use strict";
 
   var fs = require("fs");
